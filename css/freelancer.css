@@ -79,7 +79,7 @@ header .intro-text .name {
   font-family: "Cabin", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
-  font-size: 2em;
+  font-size: 1.75em;
 }
 header .intro-text .skills {
   font-size: 1.25em;
@@ -91,7 +91,7 @@ header .intro-text .skills {
     padding-bottom: 100px;
   }
   header .intro-text .name {
-    font-size: 4em;
+    font-size: 3.25em;
   }
   header .intro-text .skills {
     font-size: 1.75em;
