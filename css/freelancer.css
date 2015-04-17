@@ -21,12 +21,12 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Cabin", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
 }
-hr.star-light,
-hr.star-primary {
+hr.sun-light,
+hr.sun-primary {
   padding: 0;
   border: none;
   border-top: solid 5px;
@@ -34,9 +34,9 @@ hr.star-primary {
   max-width: 250px;
   margin: 25px auto 30px;
 }
-hr.star-light:after,
-hr.star-primary:after {
-  content: "\f005";
+hr.sun-light:after,
+hr.sun-primary:after {
+  content: "\f185";
   font-family: FontAwesome;
   display: inline-block;
   position: relative;
@@ -44,17 +44,17 @@ hr.star-primary:after {
   font-size: 2em;
   padding: 0 0.25em;
 }
-hr.star-light {
+hr.sun-light {
   border-color: white;
 }
-hr.star-light:after {
+hr.sun-light:after {
   background-color: #c0c0c0;
   color: white;
 }
-hr.star-primary {
+hr.sun-primary {
   border-color: #808000;
 }
-hr.star-primary:after {
+hr.sun-primary:after {
   background-color: white;
   color: #808000;
 }
@@ -76,7 +76,7 @@ header img {
 }
 header .intro-text .name {
   display: block;
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Cabin", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
   font-size: 2em;
@@ -87,7 +87,7 @@ header .intro-text .skills {
 }
 @media (min-width: 768px) {
   header .container {
-    padding-top: 200px;
+    padding-top: 150px;
     padding-bottom: 100px;
   }
   header .intro-text .name {
@@ -118,7 +118,7 @@ header .intro-text .skills {
   }
 }
 .navbar {
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Cabin", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
 }
