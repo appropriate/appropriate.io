@@ -1,26 +1,19 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
+# Appropriate Computing, LLC
 
-[Freelancer](http://startbootstrap.com/template-overviews/freelancer/) is a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, and a working PHP contact form.
+This repository contains the source code for Appropriate Computing's main website at http://appropriate.io.
 
-## Getting Started
+## Colophon
 
-To use this theme, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
+This site uses a modified version of the [Freelancer](https://github.com/IronSummitMedia/startbootstrap-freelancer) theme, part of the Start Bootstrap library of themes. Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
 
-## Bugs and Issues
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat). The Freelancer theme is based on [Bootswatch Flatly](https://bootswatch.com/flatly) by [Thomas Park](http://thomaspark.co/).
 
-Have a bug or an issue with this theme? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-freelancer/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/freelancer/).
-
-## Creator
-
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
-
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+The customizations for this site include the use of Appropriate Computing's color scheme as well as a switch to the freely-available [Cabin](http://www.impallari.com/cabin) font by Pablo Impallari.
 
 ## Copyright and License
 
-Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-freelancer/blob/gh-pages/LICENSE) license.
+Copyright © 2015, Appropriate Computing, LLC
+
+Except as otherwise noted, the files in this repository are licensed under the [CC0 1.0 Universal](LICENSE) license. The Cabin and Cabin Condensed typefaces are used under the [SIL Open Font License, 1.1](OFL.txt).
+
+The Freelancer theme is copyright © 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-freelancer/blob/gh-pages/LICENSE) license.
