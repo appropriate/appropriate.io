@@ -9,4 +9,4 @@ fi
 
 set -x
 
-aws s3 sync . s3://appropriate.io --acl public-read --delete --exclude '.git/*' --exclude '.cache/*'
+aws s3 sync . s3://appropriate.io --region us-west-2 --acl public-read --delete --exclude '.git/*' --exclude '.cache/*'
