@@ -3,3 +3,5 @@ sudo: false
 cache: pip
 
 script: /bin/true
+
+after_success: .travis/after_success
