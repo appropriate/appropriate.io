@@ -1,0 +1,5 @@
+language: python
+sudo: false
+cache: pip
+
+script: /bin/true
