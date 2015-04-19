@@ -7,4 +7,6 @@ if ! [[ "$TRAVIS_PULL_REQUEST" = "false" && "$TRAVIS_BRANCH" = "master" ]]; then
 	exit 0
 fi
 
+set -x
+
 aws s3 sync . s3://appropriate.io --acl public-read --delete --exclude '.git/*' --exclude '.cache/*'
